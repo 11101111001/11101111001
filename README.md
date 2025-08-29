@@ -1,9 +1,9 @@
-Welcome to my GitHub, all projects are academic and will not be listed here.
+Welcome to my GitHub, there are many private academic projects, but also some interesting public ones. 
 
-My current portfolio is not complete, though you can see more information on the project in my only public repo...
+My current portfolio contains the academic projects behind auth, so if you'd like to see more email me for credentials!
 
 Go to github-portfolio.com 
-for a proper presentation on my work. Also see docs for the website, authentication. (vueportfolio, authAPI respectively)
+for a proper presentation on my work. Also see docs for the website, authentication.
 
 <!---
 11101111001/11101111001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
